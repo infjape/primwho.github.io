@@ -141,7 +141,27 @@ body{margin:0}
   position: relative;
   margin: auto;
   width: 960px;
-  height: 920px;
   padding-top: 100px;
+  padding-bottom:200px
+}
+
+.videos video{
+  width: 300px;
+  height: 533;
+  margin: 10px;
   overflow: hidden;
+  border-radius: 8px
+}
+
+#thumbnail{
+  width: 300px;
+  height: 533;
+  margin: 10px;
+  overflow: hidden;
+  border-radius: 8px
+}
+
+footer p{
+  text-align: center;
+  padding: 50px
 }
